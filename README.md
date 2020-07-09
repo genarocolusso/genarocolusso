@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey you 👋⚡
+
+- 👨🏻‍💻 FrontEnd Developer 
+- 🖌️ I love UI design 
+
+You can check some of my work at genarocolusso.dev and find me on LinkedIn.
+
+ 
 
 <!--
 **genarocolusso/genarocolusso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
