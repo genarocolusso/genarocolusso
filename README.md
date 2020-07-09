@@ -3,7 +3,8 @@
 - 👨🏻‍💻 FrontEnd Developer 
 - 🖌️ I love UI design 
 
-You can check some of my work at genarocolusso.dev and find me on LinkedIn.
+You can check some of my work at [genarocolusso.dev](https://genarocoluss.dev) 
+and find me on [linkedin](https://www.linkedin.com/in/genarocolusso) for more infos;
 
  
 
