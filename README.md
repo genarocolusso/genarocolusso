@@ -5,6 +5,8 @@
  
  Currently working with Angular or React. CSS enthusiast 🐱‍👤
 
+You can find my Resume [here](https://github.com/genarocolusso/genarocolusso/raw/master/genaro%20colusso%20Resume%202020.pdf)
+
 ## Get in touch
 You can check some of my work at [genarocolusso.dev](https://genarocolusso.dev) 
 and find me on [linkedin](https://www.linkedin.com/in/genarocolusso) for more infos;
