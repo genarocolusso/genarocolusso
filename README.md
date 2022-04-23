@@ -3,7 +3,7 @@
 ## About me
  I'm Genaro Schneider Colusso, experienced Front-End developer and passionate about UI design and UI development. Besides from  programming, I have a huge love for illustration and art in general. I like to play the electric guitar and video-games in my spare time.
  
- Currently working with Angular or React. CSS enthusiast 🐱‍👤
+ Currently working with React + TS.  🐱‍👤
 
  
 ## Get in touch
